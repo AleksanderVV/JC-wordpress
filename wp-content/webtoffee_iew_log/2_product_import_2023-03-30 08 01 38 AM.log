@@ -1,0 +1,104 @@
+03-30-2023 @ 08:01:38 - ---[ New import started at 2023-03-30 08:01:38 ] PHP Memory: 128 MB, WP Memory: 40 MB
+03-30-2023 @ 08:01:38 - Preparing for import.
+03-30-2023 @ 08:01:38 - Row :1 - Parsing item.
+03-30-2023 @ 08:01:38 - Importing as new product ID:173
+03-30-2023 @ 08:01:38 - Row :1 - Processing item.
+03-30-2023 @ 08:01:38 - Found simple product object. ID:173
+03-30-2023 @ 08:01:38 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/view1.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:174
+03-30-2023 @ 08:01:39 - Setting Gallery Images.
+03-30-2023 @ 08:01:39 - Image URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/view2.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:175
+03-30-2023 @ 08:01:39 - Image URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/view3.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:176
+03-30-2023 @ 08:01:39 - Image URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/view4.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:177
+03-30-2023 @ 08:01:39 - Image URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/view5.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:178
+03-30-2023 @ 08:01:39 - Row :1 - Product imported successfully.
+03-30-2023 @ 08:01:39 - Row :2 - Parsing item.
+03-30-2023 @ 08:01:39 - Importing as new product ID:183
+03-30-2023 @ 08:01:39 - Row :2 - Processing item.
+03-30-2023 @ 08:01:39 - Found simple product object. ID:183
+03-30-2023 @ 08:01:39 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product1.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:184
+03-30-2023 @ 08:01:39 - Row :2 - Product imported successfully.
+03-30-2023 @ 08:01:39 - Row :3 - Parsing item.
+03-30-2023 @ 08:01:39 - Importing as new product ID:185
+03-30-2023 @ 08:01:39 - Row :3 - Processing item.
+03-30-2023 @ 08:01:39 - Found simple product object. ID:185
+03-30-2023 @ 08:01:39 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product2.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:186
+03-30-2023 @ 08:01:39 - Row :3 - Product imported successfully.
+03-30-2023 @ 08:01:39 - Row :4 - Parsing item.
+03-30-2023 @ 08:01:39 - Importing as new product ID:187
+03-30-2023 @ 08:01:39 - Row :4 - Processing item.
+03-30-2023 @ 08:01:39 - Found simple product object. ID:187
+03-30-2023 @ 08:01:39 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product3.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:188
+03-30-2023 @ 08:01:39 - Row :4 - Product imported successfully.
+03-30-2023 @ 08:01:39 - Row :5 - Parsing item.
+03-30-2023 @ 08:01:39 - Importing as new product ID:189
+03-30-2023 @ 08:01:39 - Row :5 - Processing item.
+03-30-2023 @ 08:01:39 - Found simple product object. ID:189
+03-30-2023 @ 08:01:39 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product4.jpg
+03-30-2023 @ 08:01:39 - Attachment ID:190
+03-30-2023 @ 08:01:40 - Row :5 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :6 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:191
+03-30-2023 @ 08:01:40 - Row :6 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:191
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product5.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:192
+03-30-2023 @ 08:01:40 - Row :6 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :7 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:193
+03-30-2023 @ 08:01:40 - Row :7 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:193
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product6.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:194
+03-30-2023 @ 08:01:40 - Row :7 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :8 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:195
+03-30-2023 @ 08:01:40 - Row :8 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:195
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product7.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:196
+03-30-2023 @ 08:01:40 - Row :8 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :9 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:197
+03-30-2023 @ 08:01:40 - Row :9 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:197
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product8.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:198
+03-30-2023 @ 08:01:40 - Row :9 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :10 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:199
+03-30-2023 @ 08:01:40 - Row :10 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:199
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product9.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:200
+03-30-2023 @ 08:01:40 - Row :10 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Preparing for import.
+03-30-2023 @ 08:01:40 - Row :11 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:201
+03-30-2023 @ 08:01:40 - Row :11 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:201
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product10.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:202
+03-30-2023 @ 08:01:40 - Row :11 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :12 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:203
+03-30-2023 @ 08:01:40 - Row :12 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:203
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/product11.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:204
+03-30-2023 @ 08:01:40 - Row :12 - Product imported successfully.
+03-30-2023 @ 08:01:40 - Row :13 - Parsing item.
+03-30-2023 @ 08:01:40 - Importing as new product ID:205
+03-30-2023 @ 08:01:40 - Row :13 - Processing item.
+03-30-2023 @ 08:01:40 - Found simple product object. ID:205
+03-30-2023 @ 08:01:40 - Setting Featured Image. URL:http://localhost:8888/wordpress/wp-content/uploads/2023/03/cart1.jpg
+03-30-2023 @ 08:01:40 - Attachment ID:206
+03-30-2023 @ 08:01:40 - Row :13 - Product imported successfully.
+03-30-2023 @ 08:01:40 - ---[ Import ended at 2023-03-30 08:01:40]---
